@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/portefolio/static/css/main.8cc77289.css",
+    "main.js": "/portefolio/static/js/main.58acf565.js",
+    "static/media/bghome.jpg": "/portefolio/static/media/bghome.1eb0a5a12467f4cb8c3e.jpg",
+    "static/media/IMG_20220130_154734_52.png": "/portefolio/static/media/IMG_20220130_154734_52.8fdad4f4a80b724e5976.png",
+    "static/media/IMG_20220130_155035_843.jpg": "/portefolio/static/media/IMG_20220130_155035_843.2bf79e64d573b30eb799.jpg",
+    "static/media/1.png": "/portefolio/static/media/1.fbc6420c1c9f517c1b0c.png",
+    "static/media/IMG_20220130_154908_626.png": "/portefolio/static/media/IMG_20220130_154908_626.ee6e4a834f76e757f523.png",
+    "static/media/IMG_20220130_154955_112.png": "/portefolio/static/media/IMG_20220130_154955_112.a7e35973a75dc7444b6c.png",
+    "static/media/IMG_20220130_155004_441.png": "/portefolio/static/media/IMG_20220130_155004_441.6c8041d1b3218132b303.png",
+    "static/media/IMG_20220130_154831_089.png": "/portefolio/static/media/IMG_20220130_154831_089.1cdf22c4138f60441a76.png",
+    "static/media/IMG_20220130_155047_387.jpg": "/portefolio/static/media/IMG_20220130_155047_387.770d250226d5ad69c2c2.jpg",
+    "static/media/IMG_20220130_154837_113.png": "/portefolio/static/media/IMG_20220130_154837_113.1727fc602b47883565c6.png",
+    "static/media/IMG_20220130_154930_806.jpg": "/portefolio/static/media/IMG_20220130_154930_806.009401b7df81e91c1e43.jpg",
+    "static/media/Roboto-Regular.ttf": "/portefolio/static/media/Roboto-Regular.a8d6ac03c7b96b7acb62.ttf",
+    "static/media/bodyLogo.png": "/portefolio/static/media/bodyLogo.b9a52b590f58f61414d6.png",
+    "static/media/LogoCk.png": "/portefolio/static/media/LogoCk.d2215fcef4564e28883a.png",
+    "static/media/Profil.png": "/portefolio/static/media/Profil.fc96725d3de9e064c6ae.png",
+    "static/media/logo.png": "/portefolio/static/media/logo.1eddbeeb4e24834910eb.png",
+    "static/media/pexels-bich-tran-669996.jpg": "/portefolio/static/media/pexels-bich-tran-669996.7f47aad7178ab77ccfd7.jpg",
+    "static/media/MzConsult.png": "/portefolio/static/media/MzConsult.7998562e9dd6a2b6d59b.png",
+    "static/media/photoshop.png": "/portefolio/static/media/photoshop.52750b6fcce9db3ec5b8.png",
+    "static/media/illustrator.png": "/portefolio/static/media/illustrator.e89c5bc781df3cd2e3b9.png",
+    "static/media/ContactSVG.png": "/portefolio/static/media/ContactSVG.af24068463662b9614a7.png",
+    "static/media/inpiration.png": "/portefolio/static/media/inpiration.71157c0dbe3301e14a8e.png",
+    "static/media/colegue.png": "/portefolio/static/media/colegue.d6c8d9bf1fe8d319aadb.png",
+    "index.html": "/portefolio/index.html",
+    "main.8cc77289.css.map": "/portefolio/static/css/main.8cc77289.css.map",
+    "main.58acf565.js.map": "/portefolio/static/js/main.58acf565.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8cc77289.css",
+    "static/js/main.58acf565.js"
+  ]
+}
