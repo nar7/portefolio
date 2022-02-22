@@ -1,0 +1,32 @@
+.random{
+    background-image: url('./asset//Background//pexels-bich-tran-669996.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 320px;
+    background-color: blue;
+
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('./asset//font/Roboto-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.robotofont{
+        font-family:'Roboto';
+}
+
+.smooth{
+    scroll-behavior: smooth;
+}
+
+.custom-img{
+    background-image: url('./asset//Background//bghome.jpg');
+    min-height: 450px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
